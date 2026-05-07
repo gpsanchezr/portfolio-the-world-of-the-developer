@@ -99,4 +99,4 @@ Cada zona tiene su propio panel UI con animaciones de entrada/salida usando Fram
 - Agrega sonidos ambientales y pasos con la API `Audio`.
 - Crea nuevas zonas físicas en `components/Zones.tsx` para más habitaciones.
 
-> No puedo generar el ZIP directamente desde aquí, pero toda la estructura necesaria ya está lista en el proyecto.
+
